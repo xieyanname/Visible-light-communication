@@ -20,4 +20,6 @@ TIM4定时器是否捕获到上升沿，捕获到上升沿后改为下降沿，�
 采用时分复用方式发送信号，每盏灯五位数据,下图为示波器采集四盏灯信号图.  
 ![2{6PMVHY {IV3X$J$WR}{@X](https://github.com/xieyanname/-/assets/103435971/4013b017-827b-42a3-96e8-fa107f91464e)
 ## 接收硬件电路
-![image](https://github.com/xieyanname/-/assets/103435971/51df8976-93a4-4a91-bae5-9e15e889e989)
+![image](https://github.com/xieyanname/-/assets/103435971/51df8976-93a4-4a91-bae5-9e15e889e989)  
+![image](https://github.com/xieyanname/-/assets/103435971/3c66bdd6-cf14-4f64-87a4-1f128bb0d7f2)
+
